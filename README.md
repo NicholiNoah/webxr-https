@@ -1,7 +1,7 @@
 Cloned from Ayşegül Yönet's WebXRWorkshop https://github.com/mecawish/webXRWorkshop  
 Minimized and modified for simple mkcert ssl certificate and local https browsing  
  
- 1 - **Install dependencies**  
+ 1 - **Install Typescript & dependencies**  
  ```
  $ npm install -g typescript
  $ npm install
@@ -9,7 +9,7 @@ Minimized and modified for simple mkcert ssl certificate and local https browsin
 <br>   
    
  2 - **For security purposes, temporarily change directory to outside your local repo.**   
- **SSL keys will be located in this newly designated directory. App is setup for c:/GitRepos**        
+ **SSL keys will be located in this newly designated directory. App is preset for c:/GitRepos**        
  ```
  $ cd ..
  ```  
