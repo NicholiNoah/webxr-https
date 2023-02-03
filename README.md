@@ -10,7 +10,7 @@ Minimized and modified for simple mkcert ssl certificate and local https browsin
 <br>   
    
  2 - **For security purposes, temporarily change directory to outside your local repo.**   
- **SSL keys will be located in this newly designated directory.**      
+ **SSL keys will be located in this newly designated directory. App is setup for c:/GitRepos**        
  ```
  $ cd ..
  ```  
