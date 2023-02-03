@@ -1,10 +1,12 @@
 Cloned from Ayşegül Yönet's WebXRWorkshop https://github.com/mecawish/webXRWorkshop  
 Minimized and modified for simple mkcert ssl certificate and local https browsing  
+Requires pre-installed Node.js, Chocolatey, and mkcert
  
  1 - **Install Typescript & dependencies**  
  ```
  $ npm install -g typescript
  $ npm install
+ $ npm install mkcert
  ```    
 <br>   
    
