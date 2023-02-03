@@ -5,7 +5,6 @@ Minimized and modified for simple mkcert ssl certificate and local https browsin
  ```
  $ npm install -g typescript
  $ npm install
- $ npm install mkcert
  ```    
 <br>   
    
