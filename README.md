@@ -5,11 +5,12 @@ Minimized and modified for simple mkcert ssl certificate and local https browsin
  ```
  $ npm install -g typescript
  $ npm install
+ $ npm install mkcert
  ```    
 <br>   
    
  2 - **For security purposes, temporarily change directory to outside your local repo.**   
- **SSL keys will be located in this newly designated directory. App is preset for c:/GitRepos**        
+ **SSL keys will be located in this newly designated directory. App is preset to C:/GitRepos**        
  ```
  $ cd ..
  ```  
@@ -23,7 +24,7 @@ $ mkcert localhost
 > **_note: DO NOT share your key files with anyone._**
 <br>
 
-4 - **Change directory back to local repo root**
+4 - **Change directory back to local repo**
 ```
 $ cd webxr-https
 ```
